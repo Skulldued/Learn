@@ -59,7 +59,7 @@ ob_start();
                         <h1 class="text-white text-center sm-sss">THANK YOU</h1>
                     </div>
                     <div class="para-thanku">
-                        <p class="text-white text-sm-center ">Your Message has been sent.We'll be in touch shortly to
+                        <p class="text-dark text-sm-center fw-bolder fs-3">Your Message has been sent.We'll be in touch shortly to
                             answer all your question!!</p>
                     </div>
 
